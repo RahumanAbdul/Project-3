@@ -1,0 +1,25 @@
+class Pick_Locators:
+    Packages_Locator = "(//div[@class='sc-cqCuEk hwiHgg'])"
+    Search_locator = "//span[@class='sc-kXeGPI kDguXH']"
+    Search2Inputbox_locator = "(//input[@id='landing-search-input'])"
+    AustriaOption_locator = "//div[@class='sc-kGXeez gmSSIP']"
+    SearchPlanning_locator = "(//span[@class='sc-kXeGPI kDguXH'])"
+    Maldives_locator = "(//div[@class='allRegions__SingleResultWrapperStyle-TINmV bqQBtS'])[1]"
+    SearchPlanning_Inputbox = "(//input[@id='landing-search-input'])"
+    DubaiOption_Locator = "(//div[@class='allRegions__SingleResultWrapperStyle-TINmV bqQBtS'])[1]"
+    TempDubai_locator = "(//div[@class='MonthCard__MonthCardBox-jrbgwW hlDPcl'])[7]"
+    DepartDubai_locator = "(//li[@class='List__ListItem-jwytVl dUnJsp'])[1]"
+    DepartDate_locator = "(//li[@class='Calender__ListItem-evLEUU gulTiD'])[8]"
+    DurationTrip_locator = "(//button[normalize-space()='More than 8 nights'])"
+    TravellingWith_locator = "(//button[@class='Button__ButtonTag-dMfwkW GroupButton__GroupBtn-jmsJHY kHYBfS n-tracker-dubai-pax-type-partner'])"
+    VisitPlace_locator = "(//div[@class='DubaiActivityCard__ActivityCardWrapper-dZKfiC gicanR'])[1]"
+    Itinerary_locator = "(//button[normalize-space()='Done! Build itinerary'])"
+
+    FrancePackage_locator = "(//img[@class='css-9pa8cd'])[1]"
+    ViewallPackages_locator = "(//button[normalize-space()='View all packages'])[1]"
+    Viewdeal_locator = "(//a[normalize-space()='Stunning 5 Nights Paris France Vacation Packages'])[1]"
+    Cities_locator = "(//li[@class='sc-hLBbgP jbaWzw'])[6]"
+    Date_locator = "(//span[normalize-space()='15'])[1]"
+    Travelwith_locator = "(//section[@class='sc-bqWxrE eVzvye'])[4]"
+
+    
